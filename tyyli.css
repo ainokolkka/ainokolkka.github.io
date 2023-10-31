@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(141, 214, 241);
+}
+
+.button {
+    background-color: rgb(224, 195, 242);
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    border: solid transparent;
+    border-radius: 10px;
+   
+}
+
+h1 {
+   text-align: center;
+   font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+    margin: 30px;
+}
+
+img {
+    width: 250px;
+}
+
+ul {
+    width: 100px;
+}
+
+.container-1 {
+    display: flex;
+    padding: 10px;
+}
+
+.rasia-1 {
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+}
+
+.box-2 {
+   font-size: 20px;
+}
+
+#suuhunmenevää {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#suuhunmenevää td, #suuhunmenevää th {
+    border: 1px solid;
+    border-color: white;
+}
+
+#eka {
+    background-color: rgb(96, 96, 241);
+}
+
+#toka {
+    background-color: rgb(217, 96, 241);
+}
+
+#kolmas {
+    background-color: rgb(241, 164, 96);
+}
+
+#neljäs {
+    background-color: rgb(241, 96, 147);
+}
+
+#viides {
+    background-color: rgb(96, 241, 106);
+}
